@@ -43,7 +43,7 @@ MongoDB instance (local or cloud-based)
 Installation
 Clone the repository:
 
-git clone https://github.com/YadlaMani/test.ai
+git clone (https://github.com/aniKet0753/Test.ai)
 cd test.ai
 Install the dependencies:
 
